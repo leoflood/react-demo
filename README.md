@@ -1,4 +1,4 @@
-# React Year Calendar
+# React Demo
 
 A web demo of React to get started with React easily
 
