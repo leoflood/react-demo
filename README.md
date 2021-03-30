@@ -10,7 +10,7 @@ For development, you will only need Node.js and npm.
 
 ## Install
 
-    $ git clone https://github.com/leomassaroli/react-demo
+    $ git clone https://github.com/leoflood/react-demo
     $ cd react-demo
     $ npm install
 
